@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+//Hacktoberfest 2015
 public class ButtonBehavior : MonoBehaviour {
 
     public GameObject connectedDevice;
